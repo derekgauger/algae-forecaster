@@ -1,0 +1,269 @@
+{
+    "lakes": {
+        "lake_1": {
+            "_id": {
+                "$oid": "620b4c33bcdf8f57f9e9be25"
+            },
+            "lake_name": "Crystal Lake",
+            "days": {
+                "day_1": {
+                    "algae_level": {
+                        "$numberInt": "10"
+                    },
+                    "percent_certainty": {
+                        "$numberInt": "50"
+                    }
+                },
+                "day_2": {
+                    "algae_level": {
+                        "$numberInt": "20"
+                    },
+                    "percent_certainty": {
+                        "$numberInt": "100"
+                    }
+                },
+                "day_3": {
+                    "algae_level": {
+                        "$numberInt": "30"
+                    },
+                    "percent_certainty": {
+                        "$numberInt": "10"
+                    }
+                },
+                "day_4": {
+                    "algae_level": {
+                        "$numberInt": "15"
+                    },
+                    "percent_certainty": {
+                        "$numberInt": "20"
+                    }
+                },
+                "day_5": {
+                    "algae_level": {
+                        "$numberInt": "12"
+                    },
+                    "percent_certainty": {
+                        "$numberInt": "70"
+                    }
+                },
+                "day_6": {
+                    "algae_level": {
+                        "$numberInt": "55"
+                    },
+                    "percent_certainty": {
+                        "$numberInt": "60"
+                    }
+                },
+                "day_7": {
+                    "algae_level": {
+                        "$numberInt": "45"
+                    },
+                    "percent_certainty": {
+                        "$numberInt": "40"
+                    }
+                },
+                "day_8": {
+                    "algae_level": {
+                        "$numberInt": "32"
+                    },
+                    "percent_certainty": {
+                        "$numberInt": "90"
+                    }
+                },
+                "day_9": {
+                    "algae_level": {
+                        "$numberInt": "10"
+                    },
+                    "percent_certainty": {
+                        "$numberInt": "100"
+                    }
+                },
+                "day_10": {
+                    "algae_level": {
+                        "$numberInt": "6"
+                    },
+                    "percent_certainty": {
+                        "$numberInt": "100"
+                    }
+                }
+            }
+        },
+        "lake_2": {
+                "_id": {
+                    "$oid": "620b50d1bcdf8f57f9e9be2a"
+                },
+                "lake_name": "Lake Michigan",
+                "days": {
+                    "day_1": {
+                        "algae_level": {
+                            "$numberInt": "100"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "0"
+                        }
+                    },
+                    "day_2": {
+                        "algae_level": {
+                            "$numberInt": "50"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "50"
+                        }
+                    },
+                    "day_3": {
+                        "algae_level": {
+                            "$numberInt": "25"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "35"
+                        }
+                    },
+                    "day_4": {
+                        "algae_level": {
+                            "$numberInt": "10"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "10"
+                        }
+                    },
+                    "day_5": {
+                        "algae_level": {
+                            "$numberInt": "0"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "50"
+                        }
+                    },
+                    "day_6": {
+                        "algae_level": {
+                            "$numberInt": "5"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "7"
+                        }
+                    },
+                    "day_7": {
+                        "algae_level": {
+                            "$numberInt": "20"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "20"
+                        }
+                    },
+                    "day_8": {
+                        "algae_level": {
+                            "$numberInt": "5"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "5"
+                        }
+                    },
+                    "day_9": {
+                        "algae_level": {
+                            "$numberInt": "10"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "1"
+                        }
+                    },
+                    "day_10": {
+                        "algae_level": {
+                            "$numberInt": "50"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "50"
+                        }
+                    }
+                }
+            },
+        
+        "lake_3": {
+                "_id": {
+                    "$oid": "620b50efbcdf8f57f9e9be2b"
+                },
+                "lake_name": "Lake Kimball",
+                "days": {
+                    "day_1": {
+                        "algae_level": {
+                            "$numberInt": "10"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "90"
+                        }
+                    },
+                    "day_2": {
+                        "algae_level": {
+                            "$numberInt": "85"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "15"
+                        }
+                    },
+                    "day_3": {
+                        "algae_level": {
+                            "$numberInt": "25"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "75"
+                        }
+                    },
+                    "day_4": {
+                        "algae_level": {
+                            "$numberInt": "50"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "50"
+                        }
+                    },
+                    "day_5": {
+                        "algae_level": {
+                            "$numberInt": "90"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "100"
+                        }
+                    },
+                    "day_6": {
+                        "algae_level": {
+                            "$numberInt": "70"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "40"
+                        }
+                    },
+                    "day_7": {
+                        "algae_level": {
+                            "$numberInt": "90"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "50"
+                        }
+                    },
+                    "day_8": {
+                        "algae_level": {
+                            "$numberInt": "70"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "15"
+                        }
+                    },
+                    "day_9": {
+                        "algae_level": {
+                            "$numberInt": "90"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "40"
+                        }
+                    },
+                    "day_10": {
+                        "algae_level": {
+                            "$numberInt": "95"
+                        },
+                        "percent_certainty": {
+                            "$numberInt": "95"
+                        }
+                    }
+                }
+            }
+        }
+}

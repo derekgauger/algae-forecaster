@@ -1,0 +1,12 @@
+.header {
+  background-color: rgb(17, 17, 65);
+  color: white;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.lakeBar {
+  border: 1px solid black;
+}
